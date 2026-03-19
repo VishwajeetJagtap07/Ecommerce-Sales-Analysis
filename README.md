@@ -22,3 +22,13 @@ This project focuses on analyzing an e-commerce dataset to extract meaningful in
 
 ## 🎯 Objective
 To prepare clean and structured data for further analysis and visualization.
+
+## 📊 Task 2: Exploratory Data Analysis (EDA)
+
+- Performed descriptive statistics
+- Analyzed categorical data distributions
+- Created visualizations:
+  - Sales distribution
+  - Sales by category and region
+  - Monthly sales trends
+- Derived key business insights
