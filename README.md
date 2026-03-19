@@ -82,33 +82,5 @@ To perform deep-dive analysis on sales data and build an interactive dashboard t
 - Seasonal trends can be observed in monthly sales patterns  
 - Customer segments contribute differently to overall revenue  
 
----
 
-## 📁 Files Included
-- `Sales_Dashboard.pbix` → Power BI project file  
-- `dashboard.png` → Dashboard preview image  
-- `Sales_Dashboard.pdf` → Exported report (optional)  
-
----
-
-## 📷 Dashboard Preview
-*(Add your screenshot here)*
-
----
-
-## 🎯 Learning Outcomes
-- Hands-on experience with Power BI  
-- Understanding of KPI creation and DAX measures  
-- Building interactive and user-friendly dashboards  
-- Gaining business insights through data visualization  
-
----
-
-## 📌 Conclusion
-This project enhanced my ability to transform raw data into meaningful insights and build professional dashboards for decision-making.
-
----
-
-## 🔗 Connect with Me
-Feel free to connect with me on LinkedIn to see more of my work!
 
